@@ -3,6 +3,7 @@
 ## Problems Solved
 
 1. Roman to Integer (LeetCode 13) ✅
+2. Merge Intervals (LeetCode 56) ✅
 
 Language: C++
 
@@ -12,3 +13,6 @@ Language: C++
 - String Processing
 - Greedy Algorithms
 - Character Mapping
+- Sorting
+- Interval Merging
+- Vector Operations
