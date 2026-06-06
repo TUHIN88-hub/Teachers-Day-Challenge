@@ -4,6 +4,7 @@
 
 1. Roman to Integer (LeetCode 13) ✅
 2. Merge Intervals (LeetCode 56) ✅
+3. Maximum Depth of Binary Tree (LeetCode 104) ✅
 
 Language: C++
 
@@ -15,4 +16,6 @@ Language: C++
 - Character Mapping
 - Sorting
 - Interval Merging
-- Vector Operations
+- Binary Trees
+- DFS
+- Recursion
