@@ -3,8 +3,8 @@
 ## Problems Solved
 
 1. Two Sum (LeetCode 1) ✅
-2. Pending ⏳
-3. Pending ⏳
+2. Best Time to Buy and Sell Stock (LeetCode 121) ✅
+3. Min Stack (LeetCode 155) ✅
 
 Language: C++
 
@@ -12,4 +12,7 @@ Language: C++
 
 - Arrays
 - Hash Maps
-- Time Optimization
+- Greedy Algorithms
+- Stack
+- Design Problems
+- Optimization Techniques
