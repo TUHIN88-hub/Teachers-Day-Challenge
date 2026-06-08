@@ -9,3 +9,9 @@
 - Language: C++
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+### Problem 3: Reverse Linked List
+- Difficulty: Easy
+- Language: C++
+- Time Complexity: O(n)
+- Space Complexity: O(1)
