@@ -5,3 +5,8 @@
 - Difficulty: 800
 - Topics: Implementation, Counting
 - Status: Completed ✅
+## Problem 2
+- A. Petya and Strings (Codeforces)
+- Difficulty: 800
+- Topics: Strings, Implementation
+- Status: Completed ✅
