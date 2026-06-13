@@ -3,15 +3,17 @@
 ## Problems Solved
 
 1. A - Team ✅
-2. A - String Task ✅
+2. A - George and Accommodation ✅
+3. A - Word ✅
 
 ## Concepts Covered
 
-- Counting and Simulation
+- Counting
+- Conditional Logic
 - String Manipulation
 - Character Processing
-- Conditional Logic
+- Implementation
 
 ## Progress
 
-2 / 2 Problems Completed 🎯
+3 / 3 Problems Completed 🎯
