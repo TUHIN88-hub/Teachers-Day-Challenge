@@ -9,6 +9,7 @@
 
 1. Helpful Maths (Codeforces 339A)
 2. Drinks (Codeforces 200B)
+3. Football (Codeforces 96A)
 
 ## Concepts Practiced
 
@@ -20,9 +21,13 @@
 - Sorting
 - Floating Point Arithmetic
 - Average Calculation
+- Consecutive Character Counting
+- Greedy Traversal
 
 ## Progress
 
 Completed:
 - 2 Dr. G. Viswanathan Challenge problems
-- 2 Teacher's Day Challenge problems
+- 3 Teacher's Day Challenge problems
+
+Total Problems Solved Today: 5
