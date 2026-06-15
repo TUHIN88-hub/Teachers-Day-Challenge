@@ -8,6 +8,7 @@
 ## Teacher's Day Challenge
 
 1. Helpful Maths (Codeforces 339A)
+2. Drinks (Codeforces 200B)
 
 ## Concepts Practiced
 
@@ -17,10 +18,11 @@
 - Mathematical Observation
 - Strings
 - Sorting
-- STL
+- Floating Point Arithmetic
+- Average Calculation
 
 ## Progress
 
 Completed:
 - 2 Dr. G. Viswanathan Challenge problems
-- 1 Teacher's Day Challenge problem
+- 2 Teacher's Day Challenge problems
